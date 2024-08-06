@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yujing (Megan) Song"
+title                    : "Yujing Song"
 title_separator          : "-"
-name                     : &name "Yujing Song"
+name                     : &name "Yujing (Megan) Song"
 description              : # &description "personal description"
 url                      : https://yujing-song.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
