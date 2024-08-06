@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an associate researcher (principal investigator) at the Institute of Advanced Agricultural Sciences, Peking University. My primary research focus is the organization of agricultural and food industries in developing countries. I obtained my Ph.D. in Agricultural and Resource Economics from University of California, Davis under the supervision of [Richard J. Sexton](https://are.ucdavis.edu/people/faculty/richard-sexton/) (co-chair), [Rachael E. Goodhue (co-chair)](https://are.ucdavis.edu/people/faculty/rachael-goodhue/) (co-chair), and [Dalia Ghanem (co-chair)](https://are.ucdavis.edu/people/faculty/dalia-ghanem/). 
+I am an associate researcher (principal investigator) at the Institute of Advanced Agricultural Sciences, Peking University. My primary research focus is the organization of agricultural and food industries in developing countries. I obtained my Ph.D. in Agricultural and Resource Economics from University of California, Davis under the supervision of [Richard J. Sexton](https://are.ucdavis.edu/people/faculty/richard-sexton/) (co-chair), [Rachael E. Goodhue (co-chair)](https://are.ucdavis.edu/people/faculty/rachael-goodhue/) (co-chair), and [Dalia Ghanem](https://are.ucdavis.edu/people/faculty/dalia-ghanem/). 
 
 Research Interests
 ------
