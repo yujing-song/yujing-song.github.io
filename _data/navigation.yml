@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "Research"
+  - title: "Publications"
     url: /publications/
 
  # - title: "Talks"
@@ -10,7 +10,7 @@ main:
  #   url: /teaching/    
     
   - title: "CV"
-  url: /files/CV_Song.pdf
+    url: /files/CV_Song.pdf
         
  # - title: "Blog Posts"
  #   url: /year-archive/
