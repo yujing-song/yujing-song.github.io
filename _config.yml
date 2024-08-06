@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yujing (Megan) Song / Personal Website"
+title                    : "Yujing (Megan) Song"
 title_separator          : "-"
 name                     : &name "Yujing Song"
 description              : # &description "personal description"
